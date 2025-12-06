@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56258557230",
+    "project_id": "maha-vistaar-app",
+    "storage_bucket": "maha-vistaar-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56258557230:android:74dba29ae4e8c696efb6bf",
+        "android_client_info": {
+          "package_name": "com.example.maha_vistaar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYigpFeDkR7k-h_MluuoSQEyjHMBZnbWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
